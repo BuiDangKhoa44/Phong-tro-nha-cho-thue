@@ -1,6 +1,10 @@
 # Hệ Thống Quản Lý Phòng Trọ & Nhà Cho Thuê
 > **Giải pháp quản lý tự động hóa thông minh với sự hỗ trợ của Trí Tuệ Nhân Tạo (AI)**
+Thông Tin Thành Viên Thực Hiện
 
+## Bùi Đăng Khoa - MSSV: 2613042003
+## Nguyễn Đức Thống - MSSV: 2606042059
+## Ngô Quốc Đại - MSVV: 2613042002
 ---
 
 ## 1. Mục tiêu và thời gian
