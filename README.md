@@ -47,6 +47,8 @@ Tự động hóa hoàn toàn quy trình quản lý nhà cho thuê/phòng trọ,
 * **Chủ nhà / Quản lý:** 
   * Chuyển sang **chỉ cần chụp ảnh công tơ** và xác nhận hóa đơn do AI tạo ra.
   * Theo dõi dòng tiền và trạng thái phòng tức thời qua bảng điều khiển dashboard.
+  * ![Uploading image.png…]()
+
 
 * **Khách thuê phòng:**
   * Chuyển từ việc nhận báo giá qua tin nhắn riêng lẻ sang **nhận hóa đơn điện tử minh bạch** có đính kèm ảnh chụp công tơ và công thức lũy tiến.
