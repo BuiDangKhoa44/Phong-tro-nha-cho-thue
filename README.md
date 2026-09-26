@@ -58,7 +58,10 @@ Tự động hóa hoàn toàn quy trình quản lý nhà cho thuê/phòng trọ,
 
 
 * **Hệ thống AI & Đội ngũ kỹ thuật:**
-  * Liên tục học hỏi và tự sửa lỗi từ các phản hồi (feedback loop) khi người dùng chỉnh sửa chỉ số OCR bị sai.
+  * Liên tục học hỏi và tự sửa lỗi từ các phản hồi (feedback loop) khi người dùng chỉnh sửa chỉ số OCR bị sai
+  * <img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/aa04e625-01ab-4dc7-9639-3e540eb32b82" />
+
+  * 
 
 ---
 
