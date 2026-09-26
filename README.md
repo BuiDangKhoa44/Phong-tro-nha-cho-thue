@@ -54,6 +54,8 @@ Tự động hóa hoàn toàn quy trình quản lý nhà cho thuê/phòng trọ,
 * **Khách thuê phòng:**
   * Chuyển từ việc nhận báo giá qua tin nhắn riêng lẻ sang **nhận hóa đơn điện tử minh bạch** có đính kèm ảnh chụp công tơ và công thức lũy tiến.
   * Tự động nhận nhắc nhở thanh toán chu kỳ đúng hạn mà không cảm thấy bị làm phiền.
+  *<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/72f63bdd-9b0e-4d9b-aadb-55b10485fa8b" />
+
 
 * **Hệ thống AI & Đội ngũ kỹ thuật:**
   * Liên tục học hỏi và tự sửa lỗi từ các phản hồi (feedback loop) khi người dùng chỉnh sửa chỉ số OCR bị sai.
