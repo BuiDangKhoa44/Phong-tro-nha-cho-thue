@@ -24,19 +24,21 @@ Tự động hóa hoàn toàn quy trình quản lý nhà cho thuê/phòng trọ,
 
 ---
 
-## 2. Sự tác động của AI
-> *Trí tuệ nhân tạo đóng vai trò gì: Hỗ trợ đạt mục tiêu thế nào và có thể cản trở ra sao?*
+## 2. Ai có thể giúp đạt mục tiêu và ai có thể cản trở?
 
-### Vai trò AI giúp đạt mục tiêu (AI as an Enabler)
-* **OCR Đọc chỉ số công tơ:** AI tự động trích xuất chỉ số điện/nước từ hình ảnh chụp công tơ, tự áp bảng giá lũy tiến để tính toán.
-* **Trợ lý ảo CSKH & Nhắc nợ:** Chatbot AI tự động gửi thông báo hóa đơn theo chu kỳ, giải đáp thắc mắc về tiền cọc, điện nước 24/7.
-* **Dự báo & Phân tích:** AI dự báo công suất phòng trống, phân tích xu hướng tiêu thụ điện nước để phát hiện thất thoát/rò rỉ.
+### Những người có thể giúp đạt mục tiêu
 
-### Rủi ro từ AI có thể cản trở (AI Challenges & Limitations)
-* **Sai số OCR khi ảnh mờ/tối:** Nhận diện sai chỉ số dẫn đến hóa đơn tính sai, gây khiếu nại.
-* **Chi phí tích hợp & Vận hành Model:** Chi phí API/server AI có thể cao nếu không được tối ưu.
-* **Sự e ngại của người dùng:** Khách thuê hoặc chủ nhà nhỏ lẻ chưa quen thao tác hoặc thiếu tin tưởng vào quyết định tự động của AI.
+* **Chủ nhà / Quản lý:** Cung cấp thông tin, phê duyệt quy trình và theo dõi hoạt động quản lý phòng trọ.
+* **Khách thuê:** Cung cấp thông tin chính xác, thanh toán đúng hạn và phối hợp khi cần kiểm tra điện, nước.
+* **Nhân viên quản lý:** Theo dõi hóa đơn, tiền cọc và xử lý các vấn đề phát sinh.
+* **Đội ngũ kỹ thuật:** Xây dựng, vận hành và bảo trì hệ thống quản lý.
 
+### Những người có thể cản trở mục tiêu
+
+* **Chủ nhà / Quản lý:** Có thể không hợp tác hoặc không muốn thay đổi cách quản lý truyền thống.
+* **Khách thuê:** Có thể cung cấp thông tin không chính xác hoặc thanh toán chậm.
+* **Nhân viên quản lý:** Có thể nhập sai dữ liệu hoặc không thực hiện đúng quy trình.
+* **Đội ngũ kỹ thuật:** Nếu triển khai hệ thống không ổn định hoặc xử lý lỗi chậm sẽ ảnh hưởng đến hoạt động chung.
 ---
 
 ## 3. Tác Động 
