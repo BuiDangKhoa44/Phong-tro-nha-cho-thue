@@ -17,6 +17,6 @@
 ---
 # 26/09/2026
 ## (Leader) Bùi Đăng Khoa
-### Working: Thu thập thông tin, chia việc làm, hướng dẫn gõ chatgpt cho thành viên
+### Working: Thu thập thông tin, chia việc làm, hướng dẫn gõ chatgpt cho thành viên, sửa cái lỗi phụ
 ### Roadblocks: không
 ### Plans for the next day: tìm hiểu thêm, học thêm
