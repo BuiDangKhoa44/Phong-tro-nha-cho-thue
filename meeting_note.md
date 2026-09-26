@@ -13,3 +13,10 @@
 ### Working: đóng góp ý kiến, tìm hiểu thêm về đề tài
 ### Roadblockskhông:
 ### Plans for the next day: tìm hiểu thêm
+---
+---
+# 26/09/2026
+## (Leader) Bùi Đăng Khoa
+### Working: Thu thập thông tin, chia việc làm, hướng dẫn gõ chatgpt cho thành viên
+### Roadblocks: không
+### Plans for the next day: tìm hiểu thêm, học thêm
