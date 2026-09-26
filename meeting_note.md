@@ -21,10 +21,12 @@
 ### Working: Thu thập thông tin, chia việc làm, hướng dẫn gõ chatgpt cho thành viên, sửa cái lỗi phụ
 ### Roadblocks: không
 ### Plans for the next day: tìm hiểu thêm, học thêm
+---
 ## Ngô Quốc Đại
 ### Working: đóng góp ý kiến, tìm hiểu thêm về đề tài
 ### Roadblockskhông:
 ### Plans for the next day: tìm hiểu thêm
+---
 ## Nguyễn Đức Thống
 ### Working: sơ đồ, nhận thông tin, chỉnh sở thông tin, chỉnh sửa sơ đồ ảnh, dán .
 ### Roadblocks: không
