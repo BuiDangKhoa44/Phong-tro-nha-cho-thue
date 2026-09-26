@@ -47,7 +47,7 @@ Tự động hóa hoàn toàn quy trình quản lý nhà cho thuê/phòng trọ,
 * **Chủ nhà / Quản lý:** 
   * Chuyển sang **chỉ cần chụp ảnh công tơ** và xác nhận hóa đơn do AI tạo ra.
   * Theo dõi dòng tiền và trạng thái phòng tức thời qua bảng điều khiển dashboard.
-  * <img width="1536" height="1024" alt="cubu" src="https://github.com/user-attachments/assets/5011635b-d0d8-40d3-8f8c-9bfd19a722f5" />
+  * <img width="400" height="250" alt="cubu" src="https://github.com/user-attachments/assets/5011635b-d0d8-40d3-8f8c-9bfd19a722f5" />
 
 
 
