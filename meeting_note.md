@@ -31,4 +31,9 @@
 ### Roadblockskhông:
 ### Plans for the next day: tìm hiểu thêm
 
+## Nguyễn Đức Thống
+### Working: sơ đồ, nhận thông tin, chỉnh sở thông tin, chỉnh sửa sơ đồ ảnh, dán .
+### Roadblocks: không
+### Plans for the next day: tìm hiểu thêm, học thêm
+
 ---
