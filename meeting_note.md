@@ -13,6 +13,7 @@
 ### Working: đóng góp ý kiến, tìm hiểu thêm về đề tài
 ### Roadblockskhông:
 ### Plans for the next day: tìm hiểu thêm
+hôm nay em làm được sơ đồ với hợp team rất là hay mọi người rất đồng lòng với nhau làm leader rất có tâm đứa ra những ý kiến rất táo bạo
 ---
 ---
 # 26/09/2026
