@@ -27,28 +27,14 @@ Tự động hóa hoàn toàn quy trình quản lý nhà cho thuê/phòng trọ,
 ## 2. Ai có thể giúp đạt mục tiêu và ai có thể cản trở?
 Các bên liên quan đóng vai trò trực tiếp hoặc gián tiếp trong việc triển khai, vận hành và sử dụng hệ thống quản lý phòng trọ & nhà cho thuê.
 
-### 2.1 Những người có thể giúp đạt mục tiêu
-
+### Những người có thể giúp đạt mục tiêu
 * **Chủ nhà / Quản lý:** Cung cấp thông tin, phê duyệt quy trình và theo dõi hoạt động quản lý phòng trọ.
-* ***Vai trò: Người quản lý và chịu trách nhiệm chính đối với hoạt động kinh doanh cho thuê.
-
-Trách nhiệm:
-
-Cung cấp và cập nhật thông tin về nhà, phòng, giá thuê và dịch vụ.
-Thiết lập bảng giá điện, nước và các khoản phí.
-Phê duyệt các quy trình nghiệp vụ.
-Kiểm tra và xác nhận chỉ số điện, nước.
-Xem xét và phê duyệt hóa đơn trước khi phát hành.
-Theo dõi tình trạng phòng, doanh thu, công nợ và tiền cọc.
-Theo dõi thời hạn hợp đồng và quyết định gia hạn hoặc thanh lý.
-Theo dõi báo cáo và hiệu quả hoạt động của hệ thống.
-
-Lợi ích: Giảm thời gian quản lý thủ công, tăng tính minh bạch và kiểm soát tốt hoạt động kinh doanh.
 * **Khách thuê:** Cung cấp thông tin chính xác, thanh toán đúng hạn và phối hợp khi cần kiểm tra điện, nước.
 * **Nhân viên quản lý:** Theo dõi hóa đơn, tiền cọc và xử lý các vấn đề phát sinh.
 * **Đội ngũ kỹ thuật:** Xây dựng, vận hành và bảo trì hệ thống quản lý.
 
-### 2.2 Những người có thể cản trở mục tiêu
+
+### Những người có thể cản trở mục tiêu
 
 * **Chủ nhà / Quản lý:** Có thể không hợp tác hoặc không muốn thay đổi cách quản lý truyền thống.
 * **Khách thuê:** Có thể cung cấp thông tin không chính xác hoặc thanh toán chậm.
