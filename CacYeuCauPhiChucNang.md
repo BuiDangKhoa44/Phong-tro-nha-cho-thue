@@ -65,9 +65,19 @@ Các yêu cầu dưới đây được viết theo hướng có thể kiểm th�
 ### NFR-USE-01 — Tính dễ sử dụng
 
 - **Nhóm:** Khả dụng (Usability)
-- **Yêu cầu:** Giao diện cần dễ hiểu, dùng được trên máy tính và điện thoại; biểu mẫu phải có nhãn rõ ràng và thông báo lỗi dễ hiểu.
-- **Tiêu chí nghiệm thu đề xuất:** Người dùng thử có thể hoàn thành các tác vụ cơ bản như tìm phòng, xem hóa đơn và ghi nhận thanh toán sau hướng dẫn ngắn.
-- **Cách kiểm thử:** Thực hiện kiểm thử khả dụng với đại diện các vai trò người dùng và ghi nhận lỗi thao tác.
+-   **Yêu cầu:** Giao diện đơn giản, dễ sử dụng, giúp người dùng hoàn
+    thành các chức năng với số thao tác tối thiểu.
+-   **Tiêu chí nghiệm thu:**
+    -   Xem danh sách phòng: tối đa 2 thao tác.
+    -   Tìm kiếm phòng: tối đa 3 thao tác.
+    -   Thêm khách thuê: tối đa 6 thao tác.
+    -   Nhập chỉ số điện, nước: tối đa 5 thao tác.
+    -   Tạo hóa đơn: tối đa 4 thao tác.
+-   **Kiểm thử:** Thực hiện các tác vụ thực tế và đếm số thao tác cần
+    thiết.
+
+> **Lưu ý:** Không tính thời gian đăng nhập, thao tác cuộn trang hoặc
+> nhập dữ liệu vào từng trường.
 
 ### NFR-REL-01 — Sao lưu và khôi phục dữ liệu
 
