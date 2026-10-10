@@ -1,6 +1,11 @@
 [Phan_tich_Actors_Use_Case_Quan_ly_Phong_Tro.md](https://github.com/user-attachments/files/32992862/Phan_tich_Actors_Use_Case_Quan_ly_Phong_Tro.md)
 # PHÂN TÍCH ACTORS VÀ USE CASE
+## Công nghệ cơ sở dữ liệu
 
+- **Hệ quản trị cơ sở dữ liệu (DBMS):** MySQL.
+- **Tên cơ sở dữ liệu:** `rental_management`.
+- **Mục đích:** Lưu trữ và quản lý dữ liệu về nhà trọ, phòng thuê, khách thuê, hợp đồng, chỉ số điện nước, hóa đơn, thanh toán và tiền cọc.
+- **Yêu cầu:** Đảm bảo tính toàn vẹn dữ liệu, hỗ trợ truy vấn và liên kết dữ liệu giữa các nghiệp vụ.
 ## Hệ thống quản lý phòng trọ và nhà cho thuê
 
 > **Vai trò tài liệu:** Business Analyst (BA)\
